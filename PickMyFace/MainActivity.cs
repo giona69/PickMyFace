@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace PickMyFace
 {
-    [Activity(Label = "PickMyFace", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "PickMyFace", MainLauncher = true, Icon = "@drawable/Ic_launcher")]
     public class MainActivity : Activity
     {
         int count = 1;

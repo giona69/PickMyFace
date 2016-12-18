@@ -45,7 +45,10 @@ namespace PickMyFace
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int ic_launcher = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int J0008_m = 2130837505;
 			
 			static Drawable()
 			{
@@ -60,8 +63,11 @@ namespace PickMyFace
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int MyButton = 2131034113;
+			
 			// aapt resource value: 0x7f050000
-			public const int MyButton = 2131034112;
+			public const int imageView1 = 2131034112;
 			
 			static Id()
 			{
